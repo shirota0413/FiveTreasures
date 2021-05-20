@@ -73,3 +73,4 @@ crashlytics-build.properties
 #install packages
 MyAssetPackage/
 .DS_Store
+MyAssetPackage.meta
