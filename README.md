@@ -1,2 +1,2 @@
 # FiveTreasures
-!(images/Light_Frame.png)
+!(/images/Light_Frame.png)
