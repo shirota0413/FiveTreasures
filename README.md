@@ -1,3 +1,2 @@
 # FiveTreasures
-!(/hoge.png)
-!(UCL/LicenseLogo/Others/jpg/Light_Silhouette.jpg)
+!(images/UCL/LicenseLogo/Others/jpg/Light_Silhouette.jpg)
